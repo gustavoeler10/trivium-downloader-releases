@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+-->
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Trivium Downloader</title>
+        <item>
+            <title>0.5.0</title>
+            <pubDate>Wed, 07 Oct 2026 09:42:26 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/gustavoeler10/trivium-downloader-releases/releases/download/v0.5.0/Trivium-Downloader-0.5.0.zip" length="91889905" type="application/octet-stream" sparkle:edSignature="7+2Aare4jsmNegmfU+BszoiIsSXZp/bdqjLNIPihu+iidWnzkDyxLq3QkdVVLpnLxjRppgLnJbZE6BfF0pDtBw=="/>
+            <description><![CDATA[<p>Atualizações automáticas sem login, com catálogo e pacotes assinados. Inclui opção de verificar novas versões pelo menu e preferências de verificação e download automático. Aguarda downloads ou consultas em andamento antes de reiniciar; preserva fila, histórico e pastas escolhidas.</p><p>Primeira instalação: abra o DMG e copie o app para uma pasta gravável, fora do DMG. A versão 0.4.1 e anteriores precisam desta instalação manual inicial. Depois, o app recebe futuras versões pelo canal de atualizações, incluindo yt-dlp, FFmpeg e demais ferramentas.</p><p>Apple Silicon, macOS 14 ou posterior. Sem Developer ID/notarização Apple; a primeira abertura pode exigir Abrir Mesmo Assim. Fontes e licenças acompanham o DMG.
+</p>]]></description>
+        </item>
+    </channel>
+</rss>
+<!-- sparkle-signatures:
+edSignature: 1gQBRhmP6taIobGe7atXizA21RdqnM0lmMuJ5t0tNEabg8yToPWBENm2gwyeL7NTXZyjsiTSGouy1f5K1g1QDw==
+length: 1962
+-->
